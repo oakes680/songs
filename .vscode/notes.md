@@ -1,0 +1,4 @@
+- create an empty repository
+- clone it 
+- open it in your code editor
+- create default package.json by typing:  `npm init -y`
